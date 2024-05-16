@@ -11,7 +11,7 @@ googleAnalytics = "UA-PROPERTY_ID"
   enableSearch = true
 
 [Params.newsletter]
-  title = "The Stepwriters' Hour"
+  title = "The Step Writers' Hour"
   description = "Weekly Writing Sessions"
 
   # Supports buttondown, substack and revue
